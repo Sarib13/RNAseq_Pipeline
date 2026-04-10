@@ -346,4 +346,3 @@ MIT License - Free for academic and commercial use.
 - European Bioinformatics Institute (EBI) for maintaining the database
 ```
 
----

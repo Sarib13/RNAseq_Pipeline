@@ -344,5 +344,3 @@ MIT License - Free for academic and commercial use.
 
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) for providing the free API
 - European Bioinformatics Institute (EBI) for maintaining the database
-```
-
